@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 1.8em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.4em;
+}
+
+.text-red {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.2em;
+    color: red;
+}
+
+.text-green {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.2em;
+    color: green;
+}
+
+.text-blue {
+    font-family: 'Times New Roman', serif;
+    font-size: 1.2em;
+    color: blue;
+}
